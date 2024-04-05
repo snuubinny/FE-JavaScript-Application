@@ -7,7 +7,7 @@ let user = {
 
 let {name:Name,years:age,isAdmin}=user
 
-if(admin===undefined){
+if(isAdmin===undefined){
   isAdmin=false;
 }
 
